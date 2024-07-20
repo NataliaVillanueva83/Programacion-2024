@@ -11,7 +11,7 @@ function printEvenNUmbers(number){
          evenNum += 2;
      }
  } else{
-    console.log("Error: Ha ingresado un numero menor que 0")
+    console.log("Error: Ha ingresado un numero menor que 0");
  }
 }
 
