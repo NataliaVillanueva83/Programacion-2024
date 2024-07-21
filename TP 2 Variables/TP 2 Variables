@@ -1,0 +1,23 @@
+
+Variables y tipos de datos
+1. Realiza una aplicación que solicite al usuario su nombre y apellido y lo muestre en pantalla.
+2. Realiza una aplicación que le solicite al usuario su nombre y su edad y le muestre por
+pantalla el mensaje “Hola XX tu edad es XX” donde XX son los datos del usuario.
+3. Realiza una aplicación que dados dos valores colocados en variables realice la suma de los
+mismos y los muestre por pantalla.
+4. Realiza una calculadora con las operaciones básicas (suma, resta multiplicación y división).
+Los valores para las operaciones deben estar almacenados en variables previamente.
+Condicionales
+5. Realiza una aplicación que solicite una edad al usuario e indique si es mayor a 18 años o
+menor.
+6. Realiza una aplicación que dado dos valores numéricos ingresados por el usuario, indique
+en pantalla cual es el mayor y cual es el menor.
+7. Realiza un diagrama de flujo que dado 3 números, muestre por pantalla cual es menor, cual
+es mayor y cual está entremedio de los otros dos. Dado el diagrama construido realiza un
+programa que materialice lo diseñado en el diagrama.
+8. Realiza un programa que dados 4 números almacenados en variables, calcule la suma y
+multiplicación de los mismos y muestre por pantalla un mensaje que indique si la suma da
+mayor a 30 y la multiplicación menor a 400 (deben darse las 2 condiciones
+simultáneamente) y otro mensaje en caso contrario.
+9. Como modificarías el ejercicio anterior para que indique específicamente cual de las dos
+condiciones no se cumplieron (suma o multiplicación) o si no se cumplió ninguna de las 2.
