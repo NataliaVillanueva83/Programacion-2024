@@ -5,12 +5,7 @@ const prompt = require('prompt-sync')();
 function factorial(num) {
     
     let result = 1;
-    if (num === 0 || num === 1) {
-        return 1;
-    }
-
- 
-        for (let i = 2; i <= num; i++) {
+      for (let i = 2; i <= num; i++) {
             result *= i;
         }
     
